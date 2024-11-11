@@ -1,0 +1,17 @@
+.card{
+  border: 6px solid rgb(129, 116, 116);
+  max-width: 250px;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
+  padding:20px;
+  margin:10px;
+  text-align:center;
+  display:inline-block;
+}
+.card img{
+  width:80%;
+  height:auto;
+  border-radius:50%
+}
+.card h2,p{
+  font-family: 'Courier New', Courier, monospace;
+}
